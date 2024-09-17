@@ -10,3 +10,19 @@ describe('translator.js script', () => {
         });
     });
 });
+
+
+// .....O CAP
+// O..... A
+// O.O... b
+// OO.... c
+// ...... space
+// .O.OOO numberMode
+// O..... 1
+// O.O... 2
+// OO.... 3
+// ...... space
+// OO..OO x
+// .....O CAP
+// OO.OOO Y
+// O..OOO z
